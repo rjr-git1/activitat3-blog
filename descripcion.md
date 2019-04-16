@@ -10,7 +10,11 @@ Esta estructura en HTML5 se representaría con los elementos:
 * nav (para la navegación), 
 * aside (para el contenido accesorio) y 
 * footer (para el pie). 
-Dentro del elemento main se utilizan elementos article para cada entrada del blog. 
+Dentro del elemento main se utilizan elementos article para cada entrada del blog.
+
+La estructura corresponde al esquema siguiente:
+![Esquema Blog](https://cybmeta.com/wp-content/uploads/2014/08/html5-blog_home.png)
+
 
 Teniendo esto en cuenta realiza la estructura del siguiente blog:
 [Anden27](http://anden-27.blogspot.com/)
