@@ -1,4 +1,4 @@
-#PARTE 1
+# PARTE 1
 
 La inmensa mayoría de blogs siguen una estructura similar: 
 * una cabecera, 
@@ -23,4 +23,4 @@ Teniendo esto en cuenta realiza la estructura del siguiente blog:
 
 Para ello clona el repositorio i envía mediante pull request el resultado: incluir nombre en el envío.
 
-#PARTE 2
+# PARTE 2
