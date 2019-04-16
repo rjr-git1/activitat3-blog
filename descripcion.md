@@ -25,6 +25,8 @@ Para ello clona el repositorio i envía mediante pull request el resultado: incl
 
 # PARTE 2
 
+Aplica estilos a la página anterior enlazando una hoja de estilos (fichero style.css)
+
 Tienes que tener en cuenta los siguientes requisitos:
 
 * El texto principal:
