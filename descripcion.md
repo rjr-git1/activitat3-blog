@@ -53,3 +53,18 @@ Tienes que tener en cuenta los siguientes requisitos:
 
 *Consejo: puedes utilizar las etiquetas de HTML `<em>` y `<strong>`.*
 *Consejo: puedes utilizar la etiqueta de HTML `<span>` para aplicar un estilo CSS a cualquier parte del texto.*
+
+# PARTE 3
+
+* Sustituir el color del fondo de la página por una imagen (puedes usar la imagen anexa) con las siguientes características:
+  * La imagen debe ocupar todo el viewport sin repetirse.
+  * Debe permanecer fija, no debe hacer scroll con el texto
+* Sobre el fondo incorporar un logo (vale cualquier imagen de pequeño tamaño):
+  * Se situará en la esquina superior derecha.
+  * No permanecera fija, hará scroll con el texto.
+  
+
+
+
+
+
