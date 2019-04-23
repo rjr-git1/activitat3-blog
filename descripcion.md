@@ -56,7 +56,7 @@ Tienes que tener en cuenta los siguientes requisitos:
 
 # PARTE 3
 
-* Sustituir el color del fondo de la página por una imagen (puedes usar la imagen anexa) con las siguientes características:
+* Sustituir el color del fondo de la página por una imagen (puedes usar la imagen "barco-1519472858uxq.jpg") con las siguientes características:
   * La imagen debe ocupar todo el viewport sin repetirse.
   * Debe permanecer fija, no debe hacer scroll con el texto
 * Sobre el fondo incorporar un logo (vale cualquier imagen de pequeño tamaño):
