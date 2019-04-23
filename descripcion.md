@@ -61,7 +61,7 @@ Tienes que tener en cuenta los siguientes requisitos:
   * Debe permanecer fija, no debe hacer scroll con el texto
 * Sobre el fondo incorporar un logo (vale cualquier imagen de pequeño tamaño):
   * Se situará en la esquina superior derecha.
-  * No permanecera fija, hará scroll con el texto.
+  * No permanecerá fija, hará scroll con el texto.
   
 
 
