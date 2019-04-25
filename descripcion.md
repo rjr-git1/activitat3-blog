@@ -62,7 +62,12 @@ Tienes que tener en cuenta los siguientes requisitos:
 * Sobre el fondo incorporar un logo (vale cualquier imagen de pequeño tamaño):
   * Se situará en la esquina superior derecha.
   * No permanecerá fija, hará scroll con el texto.
-  
+
+# PARTE 4
+
+Vamos a intentar hacer que nuestro blog se parezca al original. Para ello haremos los siguientes cambios:
+* Modifica la barra de navegación para que aparezca com un elemento horizontal (inline);
+* Posiciona el elemento aside al lado derecho del artículo principal de la página.
 
 
 
